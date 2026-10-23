@@ -4,7 +4,7 @@
 
 CTAS is a menu-driven campus tutoring appointment management system developed as part of an Object-Oriented Programming formative assessment. It demonstrates foundational Java programming, class design, input validation, collection management, and appointment reporting.
 
-**Assessment result:** 98/100 (98%) in OBOP102 Formative Assessment 1, 2026. The result is self-reported from the marked assessment; official feedback can be shared privately on request.
+**Assessment result:** 98/100 (98%) in OBOP102 Formative Assessment 1, 2026. Official assessment evidence: [View my marked assessment result (98%)](docs/CTAS_Assessment_Result_98_Percent.pdf).
 
 ## Features
 
