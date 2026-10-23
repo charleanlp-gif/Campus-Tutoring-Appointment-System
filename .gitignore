@@ -1,0 +1,18 @@
+# Java build artifacts
+*.class
+/build/
+/out/
+/target/
+
+# IntelliJ / editor state
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private assessment files
+*feedback*.pdf
+*assessment*.pdf
